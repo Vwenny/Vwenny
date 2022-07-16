@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James!
-- 👀 I’m interested in Fly-fishing, gaming and currently enjoying learning to code.
-- 🌱 I’m currently learning Python by self-teaching. Trying out Harvard's free CS50 course to see if it helps while i keep trying to teach myself.
+- 👀 I’m looking to continue my learning journey with programming. 
+- 🌱 I’m currently working with Python, SQL, CSS, HTML, and C. 
 
 
 <!---
